@@ -2,7 +2,9 @@
 
 This repository contains all of my **free App Inventor extensions**.  
 Each extension may also include a **demo AIA** and **demo APK** (if available).  
-You are free to use and learn from them.
+You are free to use them in your personal as well as in commercial projects.
+
+**Note: Some extension might not work properly due to latest android changes, check perfectly before publishing any of your app.**
 
 ---
 
